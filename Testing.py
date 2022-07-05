@@ -20,30 +20,11 @@ if __name__ == '__main__':
 
 
 
+def get_circle_area(r):
+    return 3.14*r**2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def get_circle_area(r):
-#     return 3.14*r**2
-#
-# result = get_circle_area(3)
-# print(result)
+result = get_circle_area(3)
+print(result)
 
 
 

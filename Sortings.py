@@ -23,6 +23,8 @@ def selectionSort(data):
                 minIndex = compIndex
         if minIndex != scanIndex:
             data[scanIndex], data[minIndex] = data[minIndex], data[scanIndex]
-    print(data)
+    return data
 
-selectionSort(a)
+result = selectionSort(a)
+print(result)
+
