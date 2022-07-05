@@ -1,0 +1,7 @@
+- .DS_Store 
+- Python Godel Mastery (requirements) 
+- Python Godel Mastery (requirements).docx 
+- IMG_1092.jpg 
+- IMG_1093.jpg 
+- ~$thon Godel Mastery (requirements).docx 
+- Vacancy Python Mastery Godel.docx 
