@@ -146,5 +146,3 @@ a = list(range(10 ** 8))
 print(func1(a))
 print(func2(a))
 
-print("End")
-
